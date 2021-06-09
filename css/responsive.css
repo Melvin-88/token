@@ -11,12 +11,12 @@ header {padding: 0 60px; }
 .fsec {padding: 0 80px; }
 .clsec {padding: 0 80px; }
 body div .expadding {padding: 0 80px !important; }
-.rmcontent {padding-left: 80px; }
+.rmcontent {padding-left: 0px; }
 .teamcarousel button {left: -519px; }
 .teamcarousel button.slick-next {left: -471px; }
 .finfos.wow.fadeIn {font-size: 40px; line-height: 60px; }
 .fsec.s3 .finfos {padding: 0; }
-header.s3.mleft {padding: 0 60px; } 
+header.s3.mleft {padding: 0 60px; }
 .sticktop.s3.mleft nav {margin-left: 40px; }
 .fsec .btns li a {line-height: initial !important; }
 
@@ -89,7 +89,7 @@ header.sticktop.sticky nav ul > li a {color: #ffffff; }
 .roadcontent .slick-slide .roadmap {width: 160px; }
 .roadmap > p {padding-right: 20px; }
 .teamcarousel button {left: -406px; }
-.teamcarousel button.slick-next {left: -357px; } 
+.teamcarousel button.slick-next {left: -357px; }
 .contactformsec {width: 400px; }
 header.sticktop.light nav ul > li a {color: #ffffff; }
 .tokenfesec.s2 > .row > div {padding: 0 7px; }
@@ -110,7 +110,7 @@ header.sticky .open-minimal-menu {margin: 19px 0; -webkit-box-shadow: 0px 0px 20
 }
 
 @media (max-width:980px){
-.team > .social{bottom: 130px;}	
+.team > .social{bottom: 130px;}
 .cartextras > a {float: right; margin: 0; }
 .cartlist {text-align: center; display: inline-block; position: relative; }
 .cartextras {margin-top: 0; }
@@ -127,7 +127,7 @@ header.sticky .open-minimal-menu {margin: 19px 0; -webkit-box-shadow: 0px 0px 20
 .fimg {float: left; width: 100%; margin-top: 50px; }
 .fimg img {float: left; max-width: 100%; }
 .cl {padding: 0 15px; }
-.cl a {float: left; width: 100%; } 
+.cl a {float: left; width: 100%; }
 .cl a img {float: left; width: 100%; }
 .sersec {margin-top: 60px; }
 .whytoken > p {padding: 0; }
@@ -156,7 +156,7 @@ header {padding: 0 80px; }
 
 }
 
-@media (max-width:767px){  
+@media (max-width:767px){
 
 .team > .social{bottom: 111px;}
 
@@ -178,12 +178,12 @@ header {padding: 0 80px; }
 .cartextras > form button {padding: 11px 20px; }
 .cartextras > a {padding: 11px 20px; }
 .paginationc li {margin: 0; }
-.paginationc li:first-child a, .paginationc li:last-child a {padding: 0 14px; } 
+.paginationc li:first-child a, .paginationc li:last-child a {padding: 0 14px; }
 .blogrmore {padding: 10px 30px; }
 .logof a img {width: 180px; }
 .bottomline.color span {padding: 0 20px; line-height: 24px; float: left; width: 100%; }
 .bottomline.color .scrollup {right: -60px; bottom: 80px; }
-.footer > ul > li a {padding: 10px 11px; } 
+.footer > ul > li a {padding: 10px 11px; }
 header {padding: 0 20px; }
 .fsec {padding: 0 20px; }
 .clsec {padding: 0 20px; }
@@ -220,7 +220,7 @@ body div .expadding.noright {padding-right: 20px !important; }
 .ourofficesec .contactlists span {text-align: left; }
 .account-popup {float: left; width: 100%; margin: 0; left: 0; }
 .gimg img {float: left; width: 100%; }
-.shipingtotal.order-details {    padding: 50px 40px; } 
+.shipingtotal.order-details {    padding: 50px 40px; }
 .tagspost {width: 100%; }
 .tags-share .social {float: right; width: 50%; margin: 6px 0; margin-top: 6px; }
 .cavatar {width: 50px; }
@@ -228,11 +228,11 @@ body div .expadding.noright {padding-right: 20px !important; }
 
 }
 
-@media (max-width:520px){	
+@media (max-width:520px){
 .schart {display: inline-block; }
 .schart-img {float: left; width: 100%; }
 .schartinfo {float: left; width: 100%; padding: 0; margin-top: 20px; }
-.shipingtotal {padding: 40px 20px; } 
+.shipingtotal {padding: 40px 20px; }
 .cartextras > form input {float: left; width: 100%; padding: 16px 20px; }
 .cartextras > form button {float: left; width: 100%; margin: 0; margin-top: 0px; padding: 16px 0; margin-top: 12px; }
 .cartextras > a {float: left; width: 100%; text-align: center; padding: 16px 0; margin-top: 14px; }
@@ -242,7 +242,7 @@ body div .expadding.noright {padding-right: 20px !important; }
 .apps-btns > a {float: left; margin: 0; padding: 7px 20px; font-size: 13px; margin-right: 12px; }
 .open-minimal-menu {position: absolute; right: 0; top: 0; }
 .fsec {padding: 0; }
-.container, .block .container {padding: 0 15px; } 
+.container, .block .container {padding: 0 15px; }
 .finfos > h3 {font-size: 23px; line-height: 38px; letter-spacing: 0.1px; }
 .finfos > p {font-size: 14px; }
 body div .theme-btn {padding: 10px 20px !important; font-size: 13px; margin-right: 0; }
@@ -251,7 +251,7 @@ body div .theme-btn.blank {background: #ffffff; border: none; color: #232323; }
 .scrolldown {bottom: 0; right: -58px; }
 .clsec {padding: 0; }
 .clsec > .cl {float: left; width: 50%; }
-.why-info > h3 {font-size: 23px; } 
+.why-info > h3 {font-size: 23px; }
 .someblock > li {float: left; width: 100%; }
 .distisec > h3 {font-size: 24px; }
 .countsec > h3 {font-size: 24px; }
