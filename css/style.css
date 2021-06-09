@@ -1317,7 +1317,7 @@ body div .expadding {
     font-family: Barlow;
     font-weight: 500;
     text-align: center;
-    margin-bottom: 120px;
+    margin-bottom: 50px;
 }
 .roadnavsec {
     float: none;
@@ -1503,21 +1503,19 @@ body div .expadding {
 
     float: left;
     width: 100%;
-    font-size: 15px;
+    font-size: 22px;
     color: #556bff;
     margin: 0;
 
     font-weight: normal;
 }
 .roadmap > p {
-
     float: left;
     width: 100%;
     font-size: 15px;
     color: #443c62;
     line-height: 28px;
     margin: 0;
-        margin-top: 0px;
     margin-top: 8px;
     padding-right: 70px;
 
