@@ -1027,7 +1027,7 @@ body div .expadding {
     text-align: center;
     margin: 0;
 }
-.countdown-soon > li >  span{
+.countdown-soon > li > div {
     float: none;
     display: inline-block;
     margin: 0;
@@ -1058,7 +1058,7 @@ body div .expadding {
     font-weight: bold;
     line-height: 107px;
 }
-.countdown-soon > li > span::before {
+.countdown-soon > li > div::before {
     position: absolute;
     left: 0;
     top: 0;
