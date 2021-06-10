@@ -50,5 +50,5 @@ function timer(f_time) {
 }
 
 $(document).ready(function() {
-    timer(new Date('2021-08-15'));
+    timer(new Date('2021-09-01'));
 });
